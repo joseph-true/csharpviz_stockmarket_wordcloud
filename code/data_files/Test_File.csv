@@ -1,0 +1,17 @@
+TEST FILE - Shows different font sizes and colors.
+Symbol,Name,Last,Change,Change %
+TEST,Test - No Price Change,100,0,0%
+TEST,Test - 1% Price Change,100,1,1%
+TEST,Test - 1% Price Change,100,-1,-1%
+TEST,Test - 2% Price Change,100,2,2%
+TEST,Test - 2% Price Change,100,-2,-2%
+TEST,Test - 4% Price Change,100,4,4%
+TEST,Test - 4% Price Change,100,-4,-4%
+TEST,Test - 6% Price Change,100,6,6%
+TEST,Test - 6% Price Change,100,-6,-6%
+TEST,Test - 8% Price Change,100,8,8%
+TEST,Test - 8% Price Change,100,-8,-8%
+TEST,Test - 10% Price Change,100,10,10%
+TEST,Test - 10% Price Change,100,-10,-10%
+TEST,Test - More than 10% Price Change,100,15,15%
+TEST,Test - More than 10% Price Change,100,-15,-15%
